@@ -11,7 +11,7 @@ import java.util.*;
 /* 
  * File server
  *
- * @authors Josh Burger, Charles McManus
+ * @authors Josh Burger, Dustin Rochette
  * @version 3/7/18
  */
  
